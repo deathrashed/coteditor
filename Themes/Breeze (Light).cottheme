@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#3daee9"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#232629"
+  },
+  "commands" : {
+    "color" : "#f67400"
+  },
+  "comments" : {
+    "color" : "#7f8c8d"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#232629",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#7f8c8d"
+  },
+  "keywords" : {
+    "color" : "#3daee9"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "Breeze (Light)",
+  "numbers" : {
+    "color" : "#f67400"
+  },
+  "selection" : {
+    "color" : "#3daee9",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#27ae60"
+  },
+  "text" : {
+    "color" : "#232629"
+  },
+  "types" : {
+    "color" : "#8e44ad"
+  },
+  "values" : {
+    "color" : "#f67400"
+  },
+  "variables" : {
+    "color" : "#e74c3c"
+  }
+}

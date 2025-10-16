@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d3869b"
+  },
+  "background" : {
+    "color" : "#fbf1c7"
+  },
+  "characters" : {
+    "color" : "#3c3836"
+  },
+  "commands" : {
+    "color" : "#fe8019"
+  },
+  "comments" : {
+    "color" : "#928374"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#3c3836",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#928374"
+  },
+  "keywords" : {
+    "color" : "#fb4934"
+  },
+  "lineHighlight" : {
+    "color" : "#fbf1c7"
+  },
+  "name" : "Gruvbox (Light)",
+  "numbers" : {
+    "color" : "#d3869b"
+  },
+  "selection" : {
+    "color" : "#ebdbb2",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#79740e"
+  },
+  "text" : {
+    "color" : "#3c3836"
+  },
+  "types" : {
+    "color" : "#076678"
+  },
+  "values" : {
+    "color" : "#b57614"
+  },
+  "variables" : {
+    "color" : "#fb4934"
+  }
+}

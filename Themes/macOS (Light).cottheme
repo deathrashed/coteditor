@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff3b30"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#1d1d1f"
+  },
+  "commands" : {
+    "color" : "#ff9500"
+  },
+  "comments" : {
+    "color" : "#8e8e93"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#1d1d1f",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#8e8e93"
+  },
+  "keywords" : {
+    "color" : "#007aff"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "macOS (Light)",
+  "numbers" : {
+    "color" : "#ff9500"
+  },
+  "selection" : {
+    "color" : "#007aff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#30d158"
+  },
+  "text" : {
+    "color" : "#1d1d1f"
+  },
+  "types" : {
+    "color" : "#af52de"
+  },
+  "values" : {
+    "color" : "#ff9500"
+  },
+  "variables" : {
+    "color" : "#ff3b30"
+  }
+}

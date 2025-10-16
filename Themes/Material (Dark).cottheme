@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff5370"
+  },
+  "background" : {
+    "color" : "#263238"
+  },
+  "characters" : {
+    "color" : "#eeffff"
+  },
+  "commands" : {
+    "color" : "#f78c6c"
+  },
+  "comments" : {
+    "color" : "#546e7a"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#eeffff",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#546e7a"
+  },
+  "keywords" : {
+    "color" : "#c792ea"
+  },
+  "lineHighlight" : {
+    "color" : "#263238"
+  },
+  "name" : "Material (Dark)",
+  "numbers" : {
+    "color" : "#f78c6c"
+  },
+  "selection" : {
+    "color" : "#37474f",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#c3e88d"
+  },
+  "text" : {
+    "color" : "#eeffff"
+  },
+  "types" : {
+    "color" : "#82aaff"
+  },
+  "values" : {
+    "color" : "#f78c6c"
+  },
+  "variables" : {
+    "color" : "#f07178"
+  }
+}

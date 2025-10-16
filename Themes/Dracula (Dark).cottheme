@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff79c6"
+  },
+  "background" : {
+    "color" : "#282a36"
+  },
+  "characters" : {
+    "color" : "#f8f8f2"
+  },
+  "commands" : {
+    "color" : "#ffb86c"
+  },
+  "comments" : {
+    "color" : "#6272a4"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#f8f8f2",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6272a4"
+  },
+  "keywords" : {
+    "color" : "#ff79c6"
+  },
+  "lineHighlight" : {
+    "color" : "#282a36"
+  },
+  "name" : "Dracula (Dark)",
+  "numbers" : {
+    "color" : "#bd93f9"
+  },
+  "selection" : {
+    "color" : "#44475a",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#f1fa8c"
+  },
+  "text" : {
+    "color" : "#f8f8f2"
+  },
+  "types" : {
+    "color" : "#8be9fd"
+  },
+  "values" : {
+    "color" : "#bd93f9"
+  },
+  "variables" : {
+    "color" : "#ff79c6"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d73a49"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#24292f"
+  },
+  "commands" : {
+    "color" : "#e36209"
+  },
+  "comments" : {
+    "color" : "#656d76"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#24292f",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#656d76"
+  },
+  "keywords" : {
+    "color" : "#d73a49"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "GitHub (Light)",
+  "numbers" : {
+    "color" : "#005cc5"
+  },
+  "selection" : {
+    "color" : "#ddf4ff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#032f62"
+  },
+  "text" : {
+    "color" : "#24292f"
+  },
+  "types" : {
+    "color" : "#005cc5"
+  },
+  "values" : {
+    "color" : "#e36209"
+  },
+  "variables" : {
+    "color" : "#d73a49"
+  }
+}

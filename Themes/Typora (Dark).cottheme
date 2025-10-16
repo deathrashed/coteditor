@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff6b6b"
+  },
+  "background" : {
+    "color" : "#1e1e1e"
+  },
+  "characters" : {
+    "color" : "#d4d4d4"
+  },
+  "commands" : {
+    "color" : "#ffa500"
+  },
+  "comments" : {
+    "color" : "#6a9955"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d4d4d4",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6a9955"
+  },
+  "keywords" : {
+    "color" : "#569cd6"
+  },
+  "lineHighlight" : {
+    "color" : "#1e1e1e"
+  },
+  "name" : "Typora (Dark)",
+  "numbers" : {
+    "color" : "#b5cea8"
+  },
+  "selection" : {
+    "color" : "#264f78",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#ce9178"
+  },
+  "text" : {
+    "color" : "#d4d4d4"
+  },
+  "types" : {
+    "color" : "#4ec9b0"
+  },
+  "values" : {
+    "color" : "#b5cea8"
+  },
+  "variables" : {
+    "color" : "#9cdcfe"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff5370"
+  },
+  "background" : {
+    "color" : "#fafafa"
+  },
+  "characters" : {
+    "color" : "#212121"
+  },
+  "commands" : {
+    "color" : "#f78c6c"
+  },
+  "comments" : {
+    "color" : "#546e7a"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#212121",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#546e7a"
+  },
+  "keywords" : {
+    "color" : "#c792ea"
+  },
+  "lineHighlight" : {
+    "color" : "#fafafa"
+  },
+  "name" : "Material (Light)",
+  "numbers" : {
+    "color" : "#f78c6c"
+  },
+  "selection" : {
+    "color" : "#e8e8e8",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#91b859"
+  },
+  "text" : {
+    "color" : "#212121"
+  },
+  "types" : {
+    "color" : "#82aaff"
+  },
+  "values" : {
+    "color" : "#f78c6c"
+  },
+  "variables" : {
+    "color" : "#f07178"
+  }
+}

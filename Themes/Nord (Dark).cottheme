@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d08770"
+  },
+  "background" : {
+    "color" : "#2e3440"
+  },
+  "characters" : {
+    "color" : "#d8dee9"
+  },
+  "commands" : {
+    "color" : "#ebcb8b"
+  },
+  "comments" : {
+    "color" : "#4c566a"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d8dee9",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#4c566a"
+  },
+  "keywords" : {
+    "color" : "#81a1c1"
+  },
+  "lineHighlight" : {
+    "color" : "#2e3440"
+  },
+  "name" : "Nord (Dark)",
+  "numbers" : {
+    "color" : "#b48ead"
+  },
+  "selection" : {
+    "color" : "#3b4252",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a3be8c"
+  },
+  "text" : {
+    "color" : "#d8dee9"
+  },
+  "types" : {
+    "color" : "#88c0d0"
+  },
+  "values" : {
+    "color" : "#b48ead"
+  },
+  "variables" : {
+    "color" : "#bf616a"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#7c3aed"
+  },
+  "background" : {
+    "color" : "#fafafa"
+  },
+  "characters" : {
+    "color" : "#2d3748"
+  },
+  "commands" : {
+    "color" : "#dd6b20"
+  },
+  "comments" : {
+    "color" : "#718096"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#2d3748",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#718096"
+  },
+  "keywords" : {
+    "color" : "#7c3aed"
+  },
+  "lineHighlight" : {
+    "color" : "#fafafa"
+  },
+  "name" : "Palenight (Light)",
+  "numbers" : {
+    "color" : "#dd6b20"
+  },
+  "selection" : {
+    "color" : "#e2e8f0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#38a169"
+  },
+  "text" : {
+    "color" : "#2d3748"
+  },
+  "types" : {
+    "color" : "#3182ce"
+  },
+  "values" : {
+    "color" : "#dd6b20"
+  },
+  "variables" : {
+    "color" : "#e53e3e"
+  }
+}

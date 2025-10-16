@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d08770"
+  },
+  "background" : {
+    "color" : "#eceff4"
+  },
+  "characters" : {
+    "color" : "#2e3440"
+  },
+  "commands" : {
+    "color" : "#ebcb8b"
+  },
+  "comments" : {
+    "color" : "#4c566a"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#2e3440",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#4c566a"
+  },
+  "keywords" : {
+    "color" : "#5e81ac"
+  },
+  "lineHighlight" : {
+    "color" : "#eceff4"
+  },
+  "name" : "Nord (Light)",
+  "numbers" : {
+    "color" : "#b48ead"
+  },
+  "selection" : {
+    "color" : "#d8dee9",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a3be8c"
+  },
+  "text" : {
+    "color" : "#2e3440"
+  },
+  "types" : {
+    "color" : "#88c0d0"
+  },
+  "values" : {
+    "color" : "#b48ead"
+  },
+  "variables" : {
+    "color" : "#bf616a"
+  }
+}

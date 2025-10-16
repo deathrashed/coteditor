@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d3869b"
+  },
+  "background" : {
+    "color" : "#282828"
+  },
+  "characters" : {
+    "color" : "#ebdbb2"
+  },
+  "commands" : {
+    "color" : "#fe8019"
+  },
+  "comments" : {
+    "color" : "#928374"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#ebdbb2",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#928374"
+  },
+  "keywords" : {
+    "color" : "#fb4934"
+  },
+  "lineHighlight" : {
+    "color" : "#282828"
+  },
+  "name" : "Gruvbox (Dark)",
+  "numbers" : {
+    "color" : "#d3869b"
+  },
+  "selection" : {
+    "color" : "#3c3836",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#b8bb26"
+  },
+  "text" : {
+    "color" : "#ebdbb2"
+  },
+  "types" : {
+    "color" : "#83a598"
+  },
+  "values" : {
+    "color" : "#fabd2f"
+  },
+  "variables" : {
+    "color" : "#fb4934"
+  }
+}

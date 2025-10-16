@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff6ac1"
+  },
+  "background" : {
+    "color" : "#0d1117"
+  },
+  "characters" : {
+    "color" : "#f0f6fc"
+  },
+  "commands" : {
+    "color" : "#ffa657"
+  },
+  "comments" : {
+    "color" : "#7d8590"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#f0f6fc",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#7d8590"
+  },
+  "keywords" : {
+    "color" : "#ff7b72"
+  },
+  "lineHighlight" : {
+    "color" : "#0d1117"
+  },
+  "name" : "Ayü (Dark)",
+  "numbers" : {
+    "color" : "#79c0ff"
+  },
+  "selection" : {
+    "color" : "#264f78",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a5d6ff"
+  },
+  "text" : {
+    "color" : "#f0f6fc"
+  },
+  "types" : {
+    "color" : "#79c0ff"
+  },
+  "values" : {
+    "color" : "#ffa657"
+  },
+  "variables" : {
+    "color" : "#ff7b72"
+  }
+}

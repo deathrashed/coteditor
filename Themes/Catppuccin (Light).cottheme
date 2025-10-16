@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#f5c2e7"
+  },
+  "background" : {
+    "color" : "#eff1f5"
+  },
+  "characters" : {
+    "color" : "#4c4f69"
+  },
+  "commands" : {
+    "color" : "#fab387"
+  },
+  "comments" : {
+    "color" : "#6c7086"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#4c4f69",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6c7086"
+  },
+  "keywords" : {
+    "color" : "#cba6f7"
+  },
+  "lineHighlight" : {
+    "color" : "#eff1f5"
+  },
+  "name" : "Catppuccin (Light)",
+  "numbers" : {
+    "color" : "#fab387"
+  },
+  "selection" : {
+    "color" : "#dce0e8",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#40a02b"
+  },
+  "text" : {
+    "color" : "#4c4f69"
+  },
+  "types" : {
+    "color" : "#1e40af"
+  },
+  "values" : {
+    "color" : "#fab387"
+  },
+  "variables" : {
+    "color" : "#d20f39"
+  }
+}

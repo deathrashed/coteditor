@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#f5c2e7"
+  },
+  "background" : {
+    "color" : "#1e1e2e"
+  },
+  "characters" : {
+    "color" : "#cdd6f4"
+  },
+  "commands" : {
+    "color" : "#fab387"
+  },
+  "comments" : {
+    "color" : "#6c7086"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#cdd6f4",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6c7086"
+  },
+  "keywords" : {
+    "color" : "#cba6f7"
+  },
+  "lineHighlight" : {
+    "color" : "#1e1e2e"
+  },
+  "name" : "Catppuccin (Dark)",
+  "numbers" : {
+    "color" : "#fab387"
+  },
+  "selection" : {
+    "color" : "#313244",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a6e3a1"
+  },
+  "text" : {
+    "color" : "#cdd6f4"
+  },
+  "types" : {
+    "color" : "#89b4fa"
+  },
+  "values" : {
+    "color" : "#fab387"
+  },
+  "variables" : {
+    "color" : "#f38ba8"
+  }
+}

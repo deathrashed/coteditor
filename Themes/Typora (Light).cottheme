@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff6b6b"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#24292e"
+  },
+  "commands" : {
+    "color" : "#e36209"
+  },
+  "comments" : {
+    "color" : "#6a737d"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#24292e",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6a737d"
+  },
+  "keywords" : {
+    "color" : "#d73a49"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "Typora (Light)",
+  "numbers" : {
+    "color" : "#005cc5"
+  },
+  "selection" : {
+    "color" : "#ddf4ff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#032f62"
+  },
+  "text" : {
+    "color" : "#24292e"
+  },
+  "types" : {
+    "color" : "#6f42c1"
+  },
+  "values" : {
+    "color" : "#005cc5"
+  },
+  "variables" : {
+    "color" : "#d73a49"
+  }
+}

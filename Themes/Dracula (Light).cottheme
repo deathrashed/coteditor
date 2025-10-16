@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff79c6"
+  },
+  "background" : {
+    "color" : "#f8f8f2"
+  },
+  "characters" : {
+    "color" : "#282a36"
+  },
+  "commands" : {
+    "color" : "#ffb86c"
+  },
+  "comments" : {
+    "color" : "#6272a4"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#282a36",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6272a4"
+  },
+  "keywords" : {
+    "color" : "#ff79c6"
+  },
+  "lineHighlight" : {
+    "color" : "#f8f8f2"
+  },
+  "name" : "Dracula (Light)",
+  "numbers" : {
+    "color" : "#bd93f9"
+  },
+  "selection" : {
+    "color" : "#e6e6e6",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#f1fa8c"
+  },
+  "text" : {
+    "color" : "#282a36"
+  },
+  "types" : {
+    "color" : "#8be9fd"
+  },
+  "values" : {
+    "color" : "#bd93f9"
+  },
+  "variables" : {
+    "color" : "#ff79c6"
+  }
+}

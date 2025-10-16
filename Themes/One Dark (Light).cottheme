@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#c678dd"
+  },
+  "background" : {
+    "color" : "#fafafa"
+  },
+  "characters" : {
+    "color" : "#383a42"
+  },
+  "commands" : {
+    "color" : "#e06c75"
+  },
+  "comments" : {
+    "color" : "#a0a1a7"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#383a42",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#a0a1a7"
+  },
+  "keywords" : {
+    "color" : "#c678dd"
+  },
+  "lineHighlight" : {
+    "color" : "#fafafa"
+  },
+  "name" : "One Dark (Light)",
+  "numbers" : {
+    "color" : "#d19a66"
+  },
+  "selection" : {
+    "color" : "#e5e5e5",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#50a14f"
+  },
+  "text" : {
+    "color" : "#383a42"
+  },
+  "types" : {
+    "color" : "#4078f2"
+  },
+  "values" : {
+    "color" : "#d19a66"
+  },
+  "variables" : {
+    "color" : "#e06c75"
+  }
+}
