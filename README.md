@@ -2,32 +2,6 @@
 
   <img src="https://coteditor.com/img/appicon/128@2x.png" alt="CotEditor" width="128" height="128">
 
-**Collection of scripts, themes, and utilities for CotEditor - the lightweight text editor for macOS.**
-
-</div>
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Scripts](#scripts)
-- [Themes](#themes)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
-- [License](#license)
-
-## 🎯 Overview
-
-This repository contains a curated collection of:
-
-- **90+ Color Themes** - From classic Solarized to modern Dracula and Catppuccin
-- **200+ Scripts** - AppleScript, Shell, Python, and Ruby utilities
-- **Text Processing Tools** - Format conversion, data manipulation, and analysis
-- **Code Utilities** - Linting, formatting, and generation tools
-
-Perfect for developers, writers, and power users who want to enhance their CotEditor experience.
-
 ## Scripts
 
 <details>
@@ -258,53 +232,17 @@ Complete Base16 theme collection with proper naming:
 - Go to Preferences → Appearance
 - Click the "+" button and select theme files
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit:
-
-- New scripts for text processing
-- Additional themes
-- Improvements to existing scripts
-- Documentation updates
-
-### Guidelines
-
-**Scripts**
-
-- Follow existing naming conventions
-- Include proper error handling
-- Add comments for complex operations
-- Test thoroughly before submitting
-
-**Themes**
-
-- Use proper JSON format
-- Include both dark and light variants when applicable
-- Test color contrast and readability
-- Follow naming convention: `ThemeName (Variant).cottheme`
-
 ## Screenshots
 
 <div align="center">
   <img src="https://coteditor.com/img/screenshots/screenshot@2x.png" width="400" alt="CotEditor Interface" style="margin: 10px;">
   <img src="https://coteditor.com/img/screenshots/darkmode@2x.png" width="400" alt="Dark Mode" style="margin: 10px;">
   <br>
-  <img src="https://coteditor.com/img/screenshots/filebrowser@2x.png" width="400" alt="File Browser" style="margin: 10px;">
-  <img src="https://coteditor.com/img/screenshots/tools@2x.png" width="400" alt="Tools" style="margin: 10px;">
-  <br>
-  <img src="https://coteditor.com/img/screenshots/verticalOrientation@2x.png" width="400" alt="Vertical Layout" style="margin: 10px;">
-  <img src="https://coteditor.com/img/screenshots/settings@2x.png" width="400" alt="Settings" style="margin: 10px;">
 </div>
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [CotEditor](https://coteditor.com/) - The amazing text editor
-- [Base16](https://github.com/chriskempson/base16) - Color scheme collection
-- All contributors and theme creators
 
 ---
 
