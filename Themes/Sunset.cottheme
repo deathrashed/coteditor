@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#2c329d"
+  },
+  "background" : {
+    "color" : "#f6f6f6"
+  },
+  "characters" : {
+    "color" : "#294277"
+  },
+  "commands" : {
+    "color" : "#b44500"
+  },
+  "comments" : {
+    "color" : "#c3741c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#294277"
+  },
+  "lineHighlight" : {
+    "color" : "#f6f6f6"
+  },
+  "name" : "Sunset",
+  "numbers" : {
+    "color" : "#294277"
+  },
+  "selection" : {
+    "color" : "#ffcc66",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#df0700"
+  },
+  "text" : {
+    "color" : "#000000"
+  },
+  "types" : {
+    "color" : "#b44500"
+  },
+  "values" : {
+    "color" : "#476a97"
+  },
+  "variables" : {
+    "color" : "#476a97"
+  }
+}

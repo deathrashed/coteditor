@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#bebe12"
+  },
+  "background" : {
+    "color" : "#141d22"
+  },
+  "characters" : {
+    "color" : "#c6bcc0"
+  },
+  "commands" : {
+    "color" : "#d09833"
+  },
+  "comments" : {
+    "color" : "#5d5d5d"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#db1f12",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#a77800"
+  },
+  "keywords" : {
+    "color" : "#b3433e"
+  },
+  "lineHighlight" : {
+    "color" : "#141d22"
+  },
+  "name" : "Ciapre 2",
+  "numbers" : {
+    "color" : "#c58cc6"
+  },
+  "selection" : {
+    "color" : "#4281c4",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#c0c38b"
+  },
+  "text" : {
+    "color" : "#b4a85d"
+  },
+  "types" : {
+    "color" : "#2d9891"
+  },
+  "values" : {
+    "color" : "#0ea000"
+  },
+  "variables" : {
+    "color" : "#21b7c3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#c59820"
+  },
+  "background" : {
+    "color" : "#b5d8f6"
+  },
+  "characters" : {
+    "color" : "#237986"
+  },
+  "commands" : {
+    "color" : "#b02f30"
+  },
+  "comments" : {
+    "color" : "#84898c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#2a343a",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#b5d8f6"
+  },
+  "keywords" : {
+    "color" : "#484d79"
+  },
+  "lineHighlight" : {
+    "color" : "#b5d8f6"
+  },
+  "name" : "Code School (Light)",
+  "numbers" : {
+    "color" : "#237986"
+  },
+  "selection" : {
+    "color" : "#a7cfa3",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#237986"
+  },
+  "text" : {
+    "color" : "#232c31"
+  },
+  "types" : {
+    "color" : "#2a5491"
+  },
+  "values" : {
+    "color" : "#a03b1e"
+  },
+  "variables" : {
+    "color" : "#2a5491"
+  }
+}

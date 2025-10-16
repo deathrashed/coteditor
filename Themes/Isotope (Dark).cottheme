@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#cc00ff"
+  },
+  "background" : {
+    "color" : "#000000"
+  },
+  "characters" : {
+    "color" : "#33ff00"
+  },
+  "commands" : {
+    "color" : "#ff9900"
+  },
+  "comments" : {
+    "color" : "#808080"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d0d0d0",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#0066ff"
+  },
+  "lineHighlight" : {
+    "color" : "#000000"
+  },
+  "name" : "Isotope (Dark)",
+  "numbers" : {
+    "color" : "#33ff00"
+  },
+  "selection" : {
+    "color" : "#606060",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#33ff00"
+  },
+  "text" : {
+    "color" : "#ffffff"
+  },
+  "types" : {
+    "color" : "#ff0000"
+  },
+  "values" : {
+    "color" : "#3300ff"
+  },
+  "variables" : {
+    "color" : "#ff0000"
+  }
+}

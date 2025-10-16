@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#a671c1"
+  },
+  "background" : {
+    "color" : "#1c1f21"
+  },
+  "characters" : {
+    "color" : "#aee073"
+  },
+  "commands" : {
+    "color" : "#e1ae37"
+  },
+  "comments" : {
+    "color" : "#515151"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#06ffd8",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#b170c0"
+  },
+  "lineHighlight" : {
+    "color" : "#1c1f21"
+  },
+  "name" : "2morrow Night",
+  "numbers" : {
+    "color" : "#aee073"
+  },
+  "selection" : {
+    "color" : "#75617a",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#9ec763"
+  },
+  "text" : {
+    "color" : "#ececf6"
+  },
+  "types" : {
+    "color" : "#e4692b"
+  },
+  "values" : {
+    "color" : "#97cf46"
+  },
+  "variables" : {
+    "color" : "#e25b60"
+  }
+}

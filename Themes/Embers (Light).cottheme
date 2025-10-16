@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#82576d"
+  },
+  "background" : {
+    "color" : "#dbd6d1"
+  },
+  "characters" : {
+    "color" : "#57826d"
+  },
+  "commands" : {
+    "color" : "#576d82"
+  },
+  "comments" : {
+    "color" : "#8a8075"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#433b32",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#dbd6d1"
+  },
+  "keywords" : {
+    "color" : "#6d5782"
+  },
+  "lineHighlight" : {
+    "color" : "#dbd6d1"
+  },
+  "name" : "Embers (Light)",
+  "numbers" : {
+    "color" : "#57826d"
+  },
+  "selection" : {
+    "color" : "#beb6ae",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#57826d"
+  },
+  "text" : {
+    "color" : "#16130f"
+  },
+  "types" : {
+    "color" : "#826d57"
+  },
+  "values" : {
+    "color" : "#6d8257"
+  },
+  "variables" : {
+    "color" : "#826d57"
+  }
+}

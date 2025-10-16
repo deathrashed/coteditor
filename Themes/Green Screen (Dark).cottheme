@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#00bb00"
+  },
+  "background" : {
+    "color" : "#001100"
+  },
+  "characters" : {
+    "color" : "#00bb00"
+  },
+  "commands" : {
+    "color" : "#009900"
+  },
+  "comments" : {
+    "color" : "#007700"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#00bb00",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#007700"
+  },
+  "keywords" : {
+    "color" : "#009900"
+  },
+  "lineHighlight" : {
+    "color" : "#001100"
+  },
+  "name" : "Green Screen (Dark)",
+  "numbers" : {
+    "color" : "#00bb00"
+  },
+  "selection" : {
+    "color" : "#005500",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#00bb00"
+  },
+  "text" : {
+    "color" : "#00ff00"
+  },
+  "types" : {
+    "color" : "#007700"
+  },
+  "values" : {
+    "color" : "#005500"
+  },
+  "variables" : {
+    "color" : "#007700"
+  }
+}

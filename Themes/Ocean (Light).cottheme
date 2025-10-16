@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b48ead"
+  },
+  "background" : {
+    "color" : "#eff1f5"
+  },
+  "characters" : {
+    "color" : "#a3be8c"
+  },
+  "commands" : {
+    "color" : "#96b5b4"
+  },
+  "comments" : {
+    "color" : "#a7adba"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#4f5b66",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#eff1f5"
+  },
+  "keywords" : {
+    "color" : "#8fa1b3"
+  },
+  "lineHighlight" : {
+    "color" : "#eff1f5"
+  },
+  "name" : "Ocean (Light)",
+  "numbers" : {
+    "color" : "#a3be8c"
+  },
+  "selection" : {
+    "color" : "#dfe1e8",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a3be8c"
+  },
+  "text" : {
+    "color" : "#2b303b"
+  },
+  "types" : {
+    "color" : "#bf616a"
+  },
+  "values" : {
+    "color" : "#ebcb8b"
+  },
+  "variables" : {
+    "color" : "#bf616a"
+  }
+}

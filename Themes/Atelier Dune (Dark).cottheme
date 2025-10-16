@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b854d4"
+  },
+  "background" : {
+    "color" : "#20201d"
+  },
+  "characters" : {
+    "color" : "#60ac39"
+  },
+  "commands" : {
+    "color" : "#b65611"
+  },
+  "comments" : {
+    "color" : "#7d7a68"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#a6a28c",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#7d7a68"
+  },
+  "keywords" : {
+    "color" : "#6684e1"
+  },
+  "lineHighlight" : {
+    "color" : "#20201d"
+  },
+  "name" : "Atelier Dune (Dark)",
+  "numbers" : {
+    "color" : "#60ac39"
+  },
+  "selection" : {
+    "color" : "#6e6b5e",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#60ac39"
+  },
+  "text" : {
+    "color" : "#fefbec"
+  },
+  "types" : {
+    "color" : "#d73737"
+  },
+  "values" : {
+    "color" : "#d43552"
+  },
+  "variables" : {
+    "color" : "#d73737"
+  }
+}

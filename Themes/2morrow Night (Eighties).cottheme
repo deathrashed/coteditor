@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#e77b4c"
+  },
+  "background" : {
+    "color" : "#2d2d2d"
+  },
+  "characters" : {
+    "color" : "#56b4ff"
+  },
+  "commands" : {
+    "color" : "#60a5bb"
+  },
+  "comments" : {
+    "color" : "#707070"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#c182c2"
+  },
+  "lineHighlight" : {
+    "color" : "#2d2d2d"
+  },
+  "name" : "2morrow Night (Eighties)",
+  "numbers" : {
+    "color" : "#56b4ff"
+  },
+  "selection" : {
+    "color" : "#393939",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#87c57f"
+  },
+  "text" : {
+    "color" : "#e5e5e5"
+  },
+  "types" : {
+    "color" : "#e2ae47"
+  },
+  "values" : {
+    "color" : "#e2ae47"
+  },
+  "variables" : {
+    "color" : "#e2ae47"
+  }
+}

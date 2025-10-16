@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#cc99cc"
+  },
+  "background" : {
+    "color" : "#2d2d2d"
+  },
+  "characters" : {
+    "color" : "#99cc99"
+  },
+  "commands" : {
+    "color" : "#f99157"
+  },
+  "comments" : {
+    "color" : "#747369"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d3d0c8",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#747369"
+  },
+  "keywords" : {
+    "color" : "#6699cc"
+  },
+  "lineHighlight" : {
+    "color" : "#2d2d2d"
+  },
+  "name" : "Eighties (Dark)",
+  "numbers" : {
+    "color" : "#99cc99"
+  },
+  "selection" : {
+    "color" : "#515151",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#99cc99"
+  },
+  "text" : {
+    "color" : "#f2f0ec"
+  },
+  "types" : {
+    "color" : "#f2777a"
+  },
+  "values" : {
+    "color" : "#d27b53"
+  },
+  "variables" : {
+    "color" : "#f2777a"
+  }
+}

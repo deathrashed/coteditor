@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#82576d"
+  },
+  "background" : {
+    "color" : "#16130f"
+  },
+  "characters" : {
+    "color" : "#57826d"
+  },
+  "commands" : {
+    "color" : "#828257"
+  },
+  "comments" : {
+    "color" : "#5a5047"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#a39a90",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#5a5047"
+  },
+  "keywords" : {
+    "color" : "#6d5782"
+  },
+  "lineHighlight" : {
+    "color" : "#16130f"
+  },
+  "name" : "Embers (Dark)",
+  "numbers" : {
+    "color" : "#57826d"
+  },
+  "selection" : {
+    "color" : "#433b32",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#57826d"
+  },
+  "text" : {
+    "color" : "#dbd6d1"
+  },
+  "types" : {
+    "color" : "#826d57"
+  },
+  "values" : {
+    "color" : "#825757"
+  },
+  "variables" : {
+    "color" : "#826d57"
+  }
+}

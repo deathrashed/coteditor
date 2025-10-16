@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ae81ff"
+  },
+  "background" : {
+    "color" : "#272822"
+  },
+  "characters" : {
+    "color" : "#a6e22e"
+  },
+  "commands" : {
+    "color" : "#fd971f"
+  },
+  "comments" : {
+    "color" : "#75715e"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#f8f8f2",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#75715e"
+  },
+  "keywords" : {
+    "color" : "#66d9ef"
+  },
+  "lineHighlight" : {
+    "color" : "#272822"
+  },
+  "name" : "Monokai (Dark)",
+  "numbers" : {
+    "color" : "#a6e22e"
+  },
+  "selection" : {
+    "color" : "#49483e",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a6e22e"
+  },
+  "text" : {
+    "color" : "#f9f8f5"
+  },
+  "types" : {
+    "color" : "#f92672"
+  },
+  "values" : {
+    "color" : "#cc6633"
+  },
+  "variables" : {
+    "color" : "#f92672"
+  }
+}

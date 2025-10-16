@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#2eff8c"
+  },
+  "background" : {
+    "color" : "#242331"
+  },
+  "characters" : {
+    "color" : "#8fe763"
+  },
+  "commands" : {
+    "color" : "#ff83ff"
+  },
+  "comments" : {
+    "color" : "#8c8c8c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#24b2ff",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#00cff8"
+  },
+  "lineHighlight" : {
+    "color" : "#242331"
+  },
+  "name" : "Night",
+  "numbers" : {
+    "color" : "#8fe763"
+  },
+  "selection" : {
+    "color" : "#e3a2ff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#9dcbff"
+  },
+  "text" : {
+    "color" : "#ececf6"
+  },
+  "types" : {
+    "color" : "#a295ff"
+  },
+  "values" : {
+    "color" : "#24c3b8"
+  },
+  "variables" : {
+    "color" : "#8858de"
+  }
+}

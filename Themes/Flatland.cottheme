@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#fa9a4b"
+  },
+  "background" : {
+    "color" : "#26292c"
+  },
+  "characters" : {
+    "color" : "#c4e2f2"
+  },
+  "commands" : {
+    "color" : "#69b9c6"
+  },
+  "comments" : {
+    "color" : "#798188"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#bbbcbd",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#7a8288"
+  },
+  "keywords" : {
+    "color" : "#ff6530"
+  },
+  "lineHighlight" : {
+    "color" : "#26292c"
+  },
+  "name" : "Flatland",
+  "numbers" : {
+    "color" : "#95c430"
+  },
+  "selection" : {
+    "color" : "#3b3f42",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#c4e2f2"
+  },
+  "text" : {
+    "color" : "#f8f8f8"
+  },
+  "types" : {
+    "color" : "#5ea7b3"
+  },
+  "values" : {
+    "color" : "#5dafbb"
+  },
+  "variables" : {
+    "color" : "#6abbc8"
+  }
+}

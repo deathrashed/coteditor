@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#8868b3"
+  },
+  "background" : {
+    "color" : "#201602"
+  },
+  "characters" : {
+    "color" : "#18974e"
+  },
+  "commands" : {
+    "color" : "#b36144"
+  },
+  "comments" : {
+    "color" : "#6c6823"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#948e48",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#6c6823"
+  },
+  "keywords" : {
+    "color" : "#477ca1"
+  },
+  "lineHighlight" : {
+    "color" : "#201602"
+  },
+  "name" : "Marrakesh (Dark)",
+  "numbers" : {
+    "color" : "#18974e"
+  },
+  "selection" : {
+    "color" : "#5f5b17",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#18974e"
+  },
+  "text" : {
+    "color" : "#faf0a5"
+  },
+  "types" : {
+    "color" : "#c35359"
+  },
+  "values" : {
+    "color" : "#b3588e"
+  },
+  "variables" : {
+    "color" : "#c35359"
+  }
+}

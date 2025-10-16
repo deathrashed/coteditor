@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#5d5db1"
+  },
+  "background" : {
+    "color" : "#161b1d"
+  },
+  "characters" : {
+    "color" : "#568c3b"
+  },
+  "commands" : {
+    "color" : "#935c25"
+  },
+  "comments" : {
+    "color" : "#5a7b8c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#7ea2b4",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#5a7b8c"
+  },
+  "keywords" : {
+    "color" : "#257fad"
+  },
+  "lineHighlight" : {
+    "color" : "#ebf8ff"
+  },
+  "name" : "Atelier Lakeside (Dark)",
+  "numbers" : {
+    "color" : "#568c3b"
+  },
+  "selection" : {
+    "color" : "#516d7b",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#568c3b"
+  },
+  "text" : {
+    "color" : "#ebf8ff"
+  },
+  "types" : {
+    "color" : "#d22d72"
+  },
+  "values" : {
+    "color" : "#b72dd2"
+  },
+  "variables" : {
+    "color" : "#d22d72"
+  }
+}

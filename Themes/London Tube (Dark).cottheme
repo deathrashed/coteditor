@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#98005d"
+  },
+  "background" : {
+    "color" : "#231f20"
+  },
+  "characters" : {
+    "color" : "#00853e"
+  },
+  "commands" : {
+    "color" : "#f386a1"
+  },
+  "comments" : {
+    "color" : "#737171"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d9d8d8",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#737171"
+  },
+  "keywords" : {
+    "color" : "#009ddc"
+  },
+  "lineHighlight" : {
+    "color" : "#231f20"
+  },
+  "name" : "London Tube (Dark)",
+  "numbers" : {
+    "color" : "#00853e"
+  },
+  "selection" : {
+    "color" : "#5a5758",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#00853e"
+  },
+  "text" : {
+    "color" : "#ffffff"
+  },
+  "types" : {
+    "color" : "#ee2e24"
+  },
+  "values" : {
+    "color" : "#b06110"
+  },
+  "variables" : {
+    "color" : "#ee2e24"
+  }
+}

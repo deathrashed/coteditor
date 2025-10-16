@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#a16a94"
+  },
+  "background" : {
+    "color" : "#f7f7f7"
+  },
+  "characters" : {
+    "color" : "#01a252"
+  },
+  "commands" : {
+    "color" : "#b5e4f4"
+  },
+  "comments" : {
+    "color" : "#807d7c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#4a4543",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f7f7f7"
+  },
+  "keywords" : {
+    "color" : "#01a0e4"
+  },
+  "lineHighlight" : {
+    "color" : "#f7f7f7"
+  },
+  "name" : "3024 (Light)",
+  "numbers" : {
+    "color" : "#01a252"
+  },
+  "selection" : {
+    "color" : "#d6d5d4",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#01a252"
+  },
+  "text" : {
+    "color" : "#090300"
+  },
+  "types" : {
+    "color" : "#db2d20"
+  },
+  "values" : {
+    "color" : "#fded02"
+  },
+  "variables" : {
+    "color" : "#db2d20"
+  }
+}

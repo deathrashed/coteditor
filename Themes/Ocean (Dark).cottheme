@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b48ead"
+  },
+  "background" : {
+    "color" : "#2b303b"
+  },
+  "characters" : {
+    "color" : "#a3be8c"
+  },
+  "commands" : {
+    "color" : "#d08770"
+  },
+  "comments" : {
+    "color" : "#65737e"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#c0c5ce",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#65737e"
+  },
+  "keywords" : {
+    "color" : "#8fa1b3"
+  },
+  "lineHighlight" : {
+    "color" : "#2b303b"
+  },
+  "name" : "Ocean (Dark)",
+  "numbers" : {
+    "color" : "#a3be8c"
+  },
+  "selection" : {
+    "color" : "#4f5b66",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a3be8c"
+  },
+  "text" : {
+    "color" : "#eff1f5"
+  },
+  "types" : {
+    "color" : "#bf616a"
+  },
+  "values" : {
+    "color" : "#ab7967"
+  },
+  "variables" : {
+    "color" : "#bf616a"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ff6666"
+  },
+  "background" : {
+    "color" : "#000000"
+  },
+  "characters" : {
+    "color" : "#808080"
+  },
+  "commands" : {
+    "color" : "#62c8ff"
+  },
+  "comments" : {
+    "color" : "#2c2c2c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#969696",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#353535"
+  },
+  "keywords" : {
+    "color" : "#faff93"
+  },
+  "lineHighlight" : {
+    "color" : "#000000"
+  },
+  "name" : "Taology",
+  "numbers" : {
+    "color" : "#b1ff48"
+  },
+  "selection" : {
+    "color" : "#808080",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#b8ffb2"
+  },
+  "text" : {
+    "color" : "#cccccc"
+  },
+  "types" : {
+    "color" : "#cccccc"
+  },
+  "values" : {
+    "color" : "#b3b3b3"
+  },
+  "variables" : {
+    "color" : "#e2ff2c"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#f996e2"
+  },
+  "background" : {
+    "color" : "#f9f9f9"
+  },
+  "characters" : {
+    "color" : "#0ed839"
+  },
+  "commands" : {
+    "color" : "#23edda"
+  },
+  "comments" : {
+    "color" : "#555555"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#102015",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f9f9f9"
+  },
+  "keywords" : {
+    "color" : "#3b48e3"
+  },
+  "lineHighlight" : {
+    "color" : "#f9f9f9"
+  },
+  "name" : "Shape Shifter (Light)",
+  "numbers" : {
+    "color" : "#0ed839"
+  },
+  "selection" : {
+    "color" : "#e0e0e0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#0ed839"
+  },
+  "text" : {
+    "color" : "#000000"
+  },
+  "types" : {
+    "color" : "#e92f2f"
+  },
+  "values" : {
+    "color" : "#dddd13"
+  },
+  "variables" : {
+    "color" : "#e92f2f"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#6666ea"
+  },
+  "background" : {
+    "color" : "#f1efee"
+  },
+  "characters" : {
+    "color" : "#5ab738"
+  },
+  "commands" : {
+    "color" : "#00ad9c"
+  },
+  "comments" : {
+    "color" : "#9c9491"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#68615e",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f1efee"
+  },
+  "keywords" : {
+    "color" : "#407ee7"
+  },
+  "lineHighlight" : {
+    "color" : "#f1efee"
+  },
+  "name" : "Atelier Forest (Light)",
+  "numbers" : {
+    "color" : "#5ab738"
+  },
+  "selection" : {
+    "color" : "#e6e2e0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#5ab738"
+  },
+  "text" : {
+    "color" : "#1b1918"
+  },
+  "types" : {
+    "color" : "#f22c40"
+  },
+  "values" : {
+    "color" : "#d5911a"
+  },
+  "variables" : {
+    "color" : "#f22c40"
+  }
+}

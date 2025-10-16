@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#7b59c0"
+  },
+  "background" : {
+    "color" : "#1b181b"
+  },
+  "characters" : {
+    "color" : "#379a37"
+  },
+  "commands" : {
+    "color" : "#a65926"
+  },
+  "comments" : {
+    "color" : "#776977"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#ab9bab",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#776977"
+  },
+  "keywords" : {
+    "color" : "#516aec"
+  },
+  "lineHighlight" : {
+    "color" : "#1b181b"
+  },
+  "name" : "Atelier Heath (Dark)",
+  "numbers" : {
+    "color" : "#379a37"
+  },
+  "selection" : {
+    "color" : "#695d69",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#379a37"
+  },
+  "text" : {
+    "color" : "#f7f3f7"
+  },
+  "types" : {
+    "color" : "#ca402b"
+  },
+  "values" : {
+    "color" : "#cc33cc"
+  },
+  "variables" : {
+    "color" : "#ca402b"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#00bb00"
+  },
+  "background" : {
+    "color" : "#00ff00"
+  },
+  "characters" : {
+    "color" : "#00bb00"
+  },
+  "commands" : {
+    "color" : "#005500"
+  },
+  "comments" : {
+    "color" : "#009900"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#005500",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#00ff00"
+  },
+  "keywords" : {
+    "color" : "#009900"
+  },
+  "lineHighlight" : {
+    "color" : "#00ff00"
+  },
+  "name" : "Green Screen (Light)",
+  "numbers" : {
+    "color" : "#00bb00"
+  },
+  "selection" : {
+    "color" : "#00dd00",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#00bb00"
+  },
+  "text" : {
+    "color" : "#001100"
+  },
+  "types" : {
+    "color" : "#007700"
+  },
+  "values" : {
+    "color" : "#007700"
+  },
+  "variables" : {
+    "color" : "#007700"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ae81ff"
+  },
+  "background" : {
+    "color" : "#f9f8f5"
+  },
+  "characters" : {
+    "color" : "#a6e22e"
+  },
+  "commands" : {
+    "color" : "#a1efe4"
+  },
+  "comments" : {
+    "color" : "#a59f85"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#49483e",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f9f8f5"
+  },
+  "keywords" : {
+    "color" : "#66d9ef"
+  },
+  "lineHighlight" : {
+    "color" : "#f9f8f5"
+  },
+  "name" : "Monokai (Light)",
+  "numbers" : {
+    "color" : "#a6e22e"
+  },
+  "selection" : {
+    "color" : "#f5f4f1",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a6e22e"
+  },
+  "text" : {
+    "color" : "#272822"
+  },
+  "types" : {
+    "color" : "#f92672"
+  },
+  "values" : {
+    "color" : "#f4bf75"
+  },
+  "variables" : {
+    "color" : "#f92672"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ab66ff"
+  },
+  "background" : {
+    "color" : "#1e1e1e"
+  },
+  "characters" : {
+    "color" : "#22ff3f"
+  },
+  "commands" : {
+    "color" : "#22ff22"
+  },
+  "comments" : {
+    "color" : "#969896"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#c5c8c6",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#969896"
+  },
+  "keywords" : {
+    "color" : "#3971ed"
+  },
+  "lineHighlight" : {
+    "color" : "#1d1f21"
+  },
+  "name" : "Google (Dark)",
+  "numbers" : {
+    "color" : "#2bff7d"
+  },
+  "selection" : {
+    "color" : "#373b41",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#00ffe0"
+  },
+  "text" : {
+    "color" : "#ffffff"
+  },
+  "types" : {
+    "color" : "#b7d0ba"
+  },
+  "values" : {
+    "color" : "#3971ed"
+  },
+  "variables" : {
+    "color" : "#ffffff"
+  }
+}

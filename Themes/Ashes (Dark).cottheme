@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#c795ae"
+  },
+  "background" : {
+    "color" : "#1c2023"
+  },
+  "characters" : {
+    "color" : "#95c7ae"
+  },
+  "commands" : {
+    "color" : "#c7c795"
+  },
+  "comments" : {
+    "color" : "#747c84"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#c7ccd1",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#747c84"
+  },
+  "keywords" : {
+    "color" : "#ae95c7"
+  },
+  "lineHighlight" : {
+    "color" : "#1c2023"
+  },
+  "name" : "Ashes (Dark)",
+  "numbers" : {
+    "color" : "#95c7ae"
+  },
+  "selection" : {
+    "color" : "#565e65",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#95c7ae"
+  },
+  "text" : {
+    "color" : "#f3f4f5"
+  },
+  "types" : {
+    "color" : "#c7ae95"
+  },
+  "values" : {
+    "color" : "#c79595"
+  },
+  "variables" : {
+    "color" : "#c7ae95"
+  }
+}

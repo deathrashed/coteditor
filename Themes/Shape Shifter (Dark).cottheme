@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#f996e2"
+  },
+  "background" : {
+    "color" : "#202020"
+  },
+  "characters" : {
+    "color" : "#0ed839"
+  },
+  "commands" : {
+    "color" : "#e09448"
+  },
+  "comments" : {
+    "color" : "#6c6c6c"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#ababab",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#343434"
+  },
+  "keywords" : {
+    "color" : "#3b48e3"
+  },
+  "lineHighlight" : {
+    "color" : "#000000"
+  },
+  "name" : "Shape Shifter (Dark)",
+  "numbers" : {
+    "color" : "#0ed839"
+  },
+  "selection" : {
+    "color" : "#102015",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#0ed839"
+  },
+  "text" : {
+    "color" : "#f9f9f9"
+  },
+  "types" : {
+    "color" : "#e92f2f"
+  },
+  "values" : {
+    "color" : "#69542d"
+  },
+  "variables" : {
+    "color" : "#e92f2f"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#756bb1"
+  },
+  "background" : {
+    "color" : "#1e1e1e"
+  },
+  "characters" : {
+    "color" : "#31a354"
+  },
+  "commands" : {
+    "color" : "#e8ed0e"
+  },
+  "comments" : {
+    "color" : "#737475"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#fcfdfe",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#737475"
+  },
+  "keywords" : {
+    "color" : "#fc30c3"
+  },
+  "lineHighlight" : {
+    "color" : "#0c0d0e"
+  },
+  "name" : "Brewer (Dark)",
+  "numbers" : {
+    "color" : "#31a354"
+  },
+  "selection" : {
+    "color" : "#515253",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#29d6dc"
+  },
+  "text" : {
+    "color" : "#fcfdfe"
+  },
+  "types" : {
+    "color" : "#e300e0"
+  },
+  "values" : {
+    "color" : "#b15928"
+  },
+  "variables" : {
+    "color" : "#e31d30"
+  }
+}

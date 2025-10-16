@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#305f65"
+  },
+  "background" : {
+    "color" : "#e3d5c1"
+  },
+  "characters" : {
+    "color" : "#259241"
+  },
+  "commands" : {
+    "color" : "#305f65"
+  },
+  "comments" : {
+    "color" : "#937a42"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#e3d5c1"
+  },
+  "keywords" : {
+    "color" : "#400080"
+  },
+  "lineHighlight" : {
+    "color" : "#e3d5c1"
+  },
+  "name" : "Humane",
+  "numbers" : {
+    "color" : "#259241"
+  },
+  "selection" : {
+    "color" : "#abcdfc",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#2643d6"
+  },
+  "text" : {
+    "color" : "#000000"
+  },
+  "types" : {
+    "color" : "#305f65"
+  },
+  "values" : {
+    "color" : "#305f65"
+  },
+  "variables" : {
+    "color" : "#305f65"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#c59820"
+  },
+  "background" : {
+    "color" : "#232c31"
+  },
+  "characters" : {
+    "color" : "#237986"
+  },
+  "commands" : {
+    "color" : "#43820d"
+  },
+  "comments" : {
+    "color" : "#3f4944"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#9ea7a6",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#3f4944"
+  },
+  "keywords" : {
+    "color" : "#484d79"
+  },
+  "lineHighlight" : {
+    "color" : "#232c31"
+  },
+  "name" : "Code School (Dark)",
+  "numbers" : {
+    "color" : "#237986"
+  },
+  "selection" : {
+    "color" : "#2a343a",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#237986"
+  },
+  "text" : {
+    "color" : "#b5d8f6"
+  },
+  "types" : {
+    "color" : "#2a5491"
+  },
+  "values" : {
+    "color" : "#c98344"
+  },
+  "variables" : {
+    "color" : "#2a5491"
+  }
+}

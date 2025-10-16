@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b2ed5d"
+  },
+  "background" : {
+    "color" : "#232323"
+  },
+  "characters" : {
+    "color" : "#e777e5"
+  },
+  "commands" : {
+    "color" : "#e16d5b"
+  },
+  "comments" : {
+    "color" : "#8b8b8b"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#00ffb3",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#b2ed5d"
+  },
+  "lineHighlight" : {
+    "color" : "#232323"
+  },
+  "name" : "Resesif",
+  "numbers" : {
+    "color" : "#e777e5"
+  },
+  "selection" : {
+    "color" : "#333236",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#b49cda"
+  },
+  "text" : {
+    "color" : "#e9e2de"
+  },
+  "types" : {
+    "color" : "#6e9cbe"
+  },
+  "values" : {
+    "color" : "#c29a7a"
+  },
+  "variables" : {
+    "color" : "#4da6bd"
+  }
+}

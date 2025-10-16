@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#cc00ff"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#33ff00"
+  },
+  "commands" : {
+    "color" : "#00ffff"
+  },
+  "comments" : {
+    "color" : "#c0c0c0"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#606060",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#ffffff"
+  },
+  "keywords" : {
+    "color" : "#0066ff"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "Isotope (Light)",
+  "numbers" : {
+    "color" : "#33ff00"
+  },
+  "selection" : {
+    "color" : "#e0e0e0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#33ff00"
+  },
+  "text" : {
+    "color" : "#000000"
+  },
+  "types" : {
+    "color" : "#ff0000"
+  },
+  "values" : {
+    "color" : "#ff0099"
+  },
+  "variables" : {
+    "color" : "#ff0000"
+  }
+}

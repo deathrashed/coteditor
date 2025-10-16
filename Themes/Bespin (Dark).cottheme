@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#9b859d"
+  },
+  "background" : {
+    "color" : "#28211c"
+  },
+  "characters" : {
+    "color" : "#54be0d"
+  },
+  "commands" : {
+    "color" : "#cf7d34"
+  },
+  "comments" : {
+    "color" : "#666666"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#8a8986",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#666666"
+  },
+  "keywords" : {
+    "color" : "#5ea6ea"
+  },
+  "lineHighlight" : {
+    "color" : "#28211c"
+  },
+  "name" : "Bespin (Dark)",
+  "numbers" : {
+    "color" : "#54be0d"
+  },
+  "selection" : {
+    "color" : "#5e5d5c",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#54be0d"
+  },
+  "text" : {
+    "color" : "#baae9e"
+  },
+  "types" : {
+    "color" : "#cf6a4c"
+  },
+  "values" : {
+    "color" : "#937121"
+  },
+  "variables" : {
+    "color" : "#cf6a4c"
+  }
+}

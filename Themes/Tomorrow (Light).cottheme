@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b294bb"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#b5bd68"
+  },
+  "commands" : {
+    "color" : "#8abeb7"
+  },
+  "comments" : {
+    "color" : "#b4b7b4"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#373b41",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#ffffff"
+  },
+  "keywords" : {
+    "color" : "#81a2be"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "Tomorrow (Light)",
+  "numbers" : {
+    "color" : "#b5bd68"
+  },
+  "selection" : {
+    "color" : "#e0e0e0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#b5bd68"
+  },
+  "text" : {
+    "color" : "#1d1f21"
+  },
+  "types" : {
+    "color" : "#cc6666"
+  },
+  "values" : {
+    "color" : "#f0c674"
+  },
+  "variables" : {
+    "color" : "#cc6666"
+  }
+}

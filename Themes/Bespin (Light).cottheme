@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#9b859d"
+  },
+  "background" : {
+    "color" : "#baae9e"
+  },
+  "characters" : {
+    "color" : "#54be0d"
+  },
+  "commands" : {
+    "color" : "#afc4db"
+  },
+  "comments" : {
+    "color" : "#797977"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#5e5d5c",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#baae9e"
+  },
+  "keywords" : {
+    "color" : "#5ea6ea"
+  },
+  "lineHighlight" : {
+    "color" : "#baae9e"
+  },
+  "name" : "Bespin (Light)",
+  "numbers" : {
+    "color" : "#54be0d"
+  },
+  "selection" : {
+    "color" : "#9d9b97",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#54be0d"
+  },
+  "text" : {
+    "color" : "#28211c"
+  },
+  "types" : {
+    "color" : "#cf6a4c"
+  },
+  "values" : {
+    "color" : "#f9ee98"
+  },
+  "variables" : {
+    "color" : "#cf6a4c"
+  }
+}

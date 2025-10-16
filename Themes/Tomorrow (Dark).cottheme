@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b294bb"
+  },
+  "background" : {
+    "color" : "#1d1f21"
+  },
+  "characters" : {
+    "color" : "#b5bd68"
+  },
+  "commands" : {
+    "color" : "#de935f"
+  },
+  "comments" : {
+    "color" : "#969896"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#c5c8c6",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#969896"
+  },
+  "keywords" : {
+    "color" : "#81a2be"
+  },
+  "lineHighlight" : {
+    "color" : "#1d1f21"
+  },
+  "name" : "Tomorrow (Dark)",
+  "numbers" : {
+    "color" : "#b5bd68"
+  },
+  "selection" : {
+    "color" : "#373b41",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#b5bd68"
+  },
+  "text" : {
+    "color" : "#ffffff"
+  },
+  "types" : {
+    "color" : "#cc6666"
+  },
+  "values" : {
+    "color" : "#a3685a"
+  },
+  "variables" : {
+    "color" : "#cc6666"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "attributes" : {
+    "color" : "#c76090"
+  },
+  "background" : {
+    "color" : "#1f1f1f"
+  },
+  "characters" : {
+    "color" : "#9cd936"
+  },
+  "commands" : {
+    "color" : "#e5e5e5"
+  },
+  "comments" : {
+    "color" : "#006f3b"
+  },
+  "highlight" : {
+    "color" : "#5da810",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#a8a8a8",
+    "usesSystemSetting" : true
+  },
+  "invisibles" : {
+    "color" : "#555555"
+  },
+  "keywords" : {
+    "color" : "#79dd14"
+  },
+  "lineHighlight" : {
+    "color" : "#333333b3"
+  },
+  "metadata" : {
+    "author" : "1024jp",
+    "description" : "CotEditor bundled theme.",
+    "distributionURL" : "https:\/\/coteditor.com",
+    "license" : "Same as CotEditor (Apache, ver.2)"
+  },
+  "name" : "Anura (Dark)",
+  "numbers" : {
+    "color" : "#a97dd1"
+  },
+  "selection" : {
+    "color" : "#a7caff",
+    "usesSystemSetting" : true
+  },
+  "strings" : {
+    "color" : "#8aba43"
+  },
+  "text" : {
+    "color" : "#e5e5e5"
+  },
+  "types" : {
+    "color" : "#ed734c"
+  },
+  "values" : {
+    "color" : "#b829e9"
+  },
+  "variables" : {
+    "color" : "#6eef07"
+  }
+}

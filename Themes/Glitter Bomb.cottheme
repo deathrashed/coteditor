@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#dab900"
+  },
+  "background" : {
+    "color" : "#0b0a0a"
+  },
+  "characters" : {
+    "color" : "#d3c788"
+  },
+  "commands" : {
+    "color" : "#7d6b55"
+  },
+  "comments" : {
+    "color" : "#44444e"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#dab900"
+  },
+  "lineHighlight" : {
+    "color" : "#0b0a0a"
+  },
+  "name" : "Glitter Bomb",
+  "numbers" : {
+    "color" : "#d3c788"
+  },
+  "selection" : {
+    "color" : "#333236",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#4d6537"
+  },
+  "text" : {
+    "color" : "#e9e2de"
+  },
+  "types" : {
+    "color" : "#705393"
+  },
+  "values" : {
+    "color" : "#ae80ff"
+  },
+  "variables" : {
+    "color" : "#af5151"
+  }
+}

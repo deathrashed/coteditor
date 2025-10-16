@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#e3e4a9"
+  },
+  "background" : {
+    "color" : "#222222"
+  },
+  "characters" : {
+    "color" : "#e4d862"
+  },
+  "commands" : {
+    "color" : "#b998df"
+  },
+  "comments" : {
+    "color" : "#b4de61"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#ff3670",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#dfb3ac"
+  },
+  "lineHighlight" : {
+    "color" : "#222222"
+  },
+  "name" : "Coal Graal",
+  "numbers" : {
+    "color" : "#e4d862"
+  },
+  "selection" : {
+    "color" : "#e3a2ff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#abc6d7"
+  },
+  "text" : {
+    "color" : "#e6e6e6"
+  },
+  "types" : {
+    "color" : "#b998df"
+  },
+  "values" : {
+    "color" : "#edb272"
+  },
+  "variables" : {
+    "color" : "#7ac1ec"
+  }
+}

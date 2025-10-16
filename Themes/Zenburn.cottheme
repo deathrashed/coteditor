@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#dcdccc"
+  },
+  "background" : {
+    "color" : "#313131"
+  },
+  "characters" : {
+    "color" : "#83ccd2"
+  },
+  "commands" : {
+    "color" : "#8cd0d3"
+  },
+  "comments" : {
+    "color" : "#7f9f7f"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#dcdccc",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#f0dfaf"
+  },
+  "lineHighlight" : {
+    "color" : "#313131"
+  },
+  "name" : "Zenburn",
+  "numbers" : {
+    "color" : "#83ccd2"
+  },
+  "selection" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#cc9393"
+  },
+  "text" : {
+    "color" : "#dcdccc"
+  },
+  "types" : {
+    "color" : "#8cd0d3"
+  },
+  "values" : {
+    "color" : "#7cb8bb"
+  },
+  "variables" : {
+    "color" : "#8cd0d3"
+  }
+}

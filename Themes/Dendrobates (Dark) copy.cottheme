@@ -1,0 +1,63 @@
+{
+  "attributes" : {
+    "color" : "#0088cc"
+  },
+  "background" : {
+    "color" : "#eff0f1"
+  },
+  "characters" : {
+    "color" : "#c53ff1"
+  },
+  "commands" : {
+    "color" : "#1d99f3"
+  },
+  "comments" : {
+    "color" : "#7f8c8d"
+  },
+  "highlight" : {
+    "color" : "#19c48b",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#0ad6a0",
+    "usesSystemSetting" : true
+  },
+  "invisibles" : {
+    "color" : "#555555"
+  },
+  "keywords" : {
+    "color" : "#9b59b6"
+  },
+  "lineHighlight" : {
+    "color" : "#000000"
+  },
+  "metadata" : {
+    "author" : "Riley",
+    "description" : "Breeze-inspired dark theme for CotEditor.",
+    "distributionURL" : "https:\/\/coteditor.com",
+    "license" : "Same as CotEditor (Apache, ver.2)"
+  },
+  "name" : "Dendrobates (Dark) copy",
+  "numbers" : {
+    "color" : "#f67400"
+  },
+  "selection" : {
+    "color" : "#008270",
+    "usesSystemSetting" : true
+  },
+  "strings" : {
+    "color" : "#1cdc9a"
+  },
+  "text" : {
+    "color" : "#000000"
+  },
+  "types" : {
+    "color" : "#fdbc4b"
+  },
+  "values" : {
+    "color" : "#06d6a0"
+  },
+  "variables" : {
+    "color" : "#ef476f"
+  }
+}

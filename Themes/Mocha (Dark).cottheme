@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#a89bb9"
+  },
+  "background" : {
+    "color" : "#3b3228"
+  },
+  "characters" : {
+    "color" : "#beb55b"
+  },
+  "commands" : {
+    "color" : "#d28b71"
+  },
+  "comments" : {
+    "color" : "#7e705a"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d0c8c6",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#7e705a"
+  },
+  "keywords" : {
+    "color" : "#8ab3b5"
+  },
+  "lineHighlight" : {
+    "color" : "#3b3228"
+  },
+  "name" : "Mocha (Dark)",
+  "numbers" : {
+    "color" : "#beb55b"
+  },
+  "selection" : {
+    "color" : "#645240",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#beb55b"
+  },
+  "text" : {
+    "color" : "#f5eeeb"
+  },
+  "types" : {
+    "color" : "#cb6077"
+  },
+  "values" : {
+    "color" : "#bb9584"
+  },
+  "variables" : {
+    "color" : "#cb6077"
+  }
+}

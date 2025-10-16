@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ad2bee"
+  },
+  "background" : {
+    "color" : "#f0fff0"
+  },
+  "characters" : {
+    "color" : "#29a329"
+  },
+  "commands" : {
+    "color" : "#1999b3"
+  },
+  "comments" : {
+    "color" : "#809980"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#5e6e5e",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f0fff0"
+  },
+  "keywords" : {
+    "color" : "#3d62f5"
+  },
+  "lineHighlight" : {
+    "color" : "#f0fff0"
+  },
+  "name" : "Atelier Seaside (Light)",
+  "numbers" : {
+    "color" : "#29a329"
+  },
+  "selection" : {
+    "color" : "#cfe8cf",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#29a329"
+  },
+  "text" : {
+    "color" : "#131513"
+  },
+  "types" : {
+    "color" : "#e6193c"
+  },
+  "values" : {
+    "color" : "#c3c322"
+  },
+  "variables" : {
+    "color" : "#e6193c"
+  }
+}

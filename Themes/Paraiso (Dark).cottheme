@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#815ba4"
+  },
+  "background" : {
+    "color" : "#2f1e2e"
+  },
+  "characters" : {
+    "color" : "#48b685"
+  },
+  "commands" : {
+    "color" : "#f99b15"
+  },
+  "comments" : {
+    "color" : "#776e71"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#a39e9b",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#776e71"
+  },
+  "keywords" : {
+    "color" : "#06b6ef"
+  },
+  "lineHighlight" : {
+    "color" : "#2f1e2e"
+  },
+  "name" : "Paraiso (Dark)",
+  "numbers" : {
+    "color" : "#48b685"
+  },
+  "selection" : {
+    "color" : "#4f424c",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#48b685"
+  },
+  "text" : {
+    "color" : "#e7e9db"
+  },
+  "types" : {
+    "color" : "#ef6155"
+  },
+  "values" : {
+    "color" : "#e96ba8"
+  },
+  "variables" : {
+    "color" : "#ef6155"
+  }
+}

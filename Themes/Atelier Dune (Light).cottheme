@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b854d4"
+  },
+  "background" : {
+    "color" : "#fefbec"
+  },
+  "characters" : {
+    "color" : "#60ac39"
+  },
+  "commands" : {
+    "color" : "#1fad83"
+  },
+  "comments" : {
+    "color" : "#999580"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#6e6b5e",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#fefbec"
+  },
+  "keywords" : {
+    "color" : "#6684e1"
+  },
+  "lineHighlight" : {
+    "color" : "#fefbec"
+  },
+  "name" : "Atelier Dune (Light)",
+  "numbers" : {
+    "color" : "#60ac39"
+  },
+  "selection" : {
+    "color" : "#e8e4cf",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#60ac39"
+  },
+  "text" : {
+    "color" : "#20201d"
+  },
+  "types" : {
+    "color" : "#d73737"
+  },
+  "values" : {
+    "color" : "#cfb017"
+  },
+  "variables" : {
+    "color" : "#d73737"
+  }
+}

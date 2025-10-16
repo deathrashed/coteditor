@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#a89bb9"
+  },
+  "background" : {
+    "color" : "#f5eeeb"
+  },
+  "characters" : {
+    "color" : "#beb55b"
+  },
+  "commands" : {
+    "color" : "#7bbda4"
+  },
+  "comments" : {
+    "color" : "#b8afad"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#645240",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f5eeeb"
+  },
+  "keywords" : {
+    "color" : "#8ab3b5"
+  },
+  "lineHighlight" : {
+    "color" : "#f5eeeb"
+  },
+  "name" : "Mocha (Light)",
+  "numbers" : {
+    "color" : "#beb55b"
+  },
+  "selection" : {
+    "color" : "#e9e1dd",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#beb55b"
+  },
+  "text" : {
+    "color" : "#3b3228"
+  },
+  "types" : {
+    "color" : "#cb6077"
+  },
+  "values" : {
+    "color" : "#f4bc87"
+  },
+  "variables" : {
+    "color" : "#cb6077"
+  }
+}

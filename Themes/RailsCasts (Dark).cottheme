@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b6b3eb"
+  },
+  "background" : {
+    "color" : "#2b2b2b"
+  },
+  "characters" : {
+    "color" : "#a5c261"
+  },
+  "commands" : {
+    "color" : "#cc7833"
+  },
+  "comments" : {
+    "color" : "#5a647e"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#e6e1dc",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#5a647e"
+  },
+  "keywords" : {
+    "color" : "#6d9cbe"
+  },
+  "lineHighlight" : {
+    "color" : "#2b2b2b"
+  },
+  "name" : "RailsCasts (Dark)",
+  "numbers" : {
+    "color" : "#a5c261"
+  },
+  "selection" : {
+    "color" : "#3a4055",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a5c261"
+  },
+  "text" : {
+    "color" : "#f9f7f3"
+  },
+  "types" : {
+    "color" : "#da4939"
+  },
+  "values" : {
+    "color" : "#bc9458"
+  },
+  "variables" : {
+    "color" : "#da4939"
+  }
+}

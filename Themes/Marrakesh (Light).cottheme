@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#8868b3"
+  },
+  "background" : {
+    "color" : "#faf0a5"
+  },
+  "characters" : {
+    "color" : "#18974e"
+  },
+  "commands" : {
+    "color" : "#75a738"
+  },
+  "comments" : {
+    "color" : "#86813b"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#5f5b17",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#faf0a5"
+  },
+  "keywords" : {
+    "color" : "#477ca1"
+  },
+  "lineHighlight" : {
+    "color" : "#faf0a5"
+  },
+  "name" : "Marrakesh (Light)",
+  "numbers" : {
+    "color" : "#18974e"
+  },
+  "selection" : {
+    "color" : "#ccc37a",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#18974e"
+  },
+  "text" : {
+    "color" : "#201602"
+  },
+  "types" : {
+    "color" : "#c35359"
+  },
+  "values" : {
+    "color" : "#a88339"
+  },
+  "variables" : {
+    "color" : "#c35359"
+  }
+}

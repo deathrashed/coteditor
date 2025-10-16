@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#e1a3ee"
+  },
+  "background" : {
+    "color" : "#f5f5f5"
+  },
+  "characters" : {
+    "color" : "#acc267"
+  },
+  "commands" : {
+    "color" : "#12cfc0"
+  },
+  "comments" : {
+    "color" : "#b0b0b0"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#303030",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f5f5f5"
+  },
+  "keywords" : {
+    "color" : "#6fc2ef"
+  },
+  "lineHighlight" : {
+    "color" : "#f5f5f5"
+  },
+  "name" : "Chalk (Light)",
+  "numbers" : {
+    "color" : "#acc267"
+  },
+  "selection" : {
+    "color" : "#e0e0e0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#acc267"
+  },
+  "text" : {
+    "color" : "#151515"
+  },
+  "types" : {
+    "color" : "#fb9fb1"
+  },
+  "values" : {
+    "color" : "#ddb26f"
+  },
+  "variables" : {
+    "color" : "#fb9fb1"
+  }
+}

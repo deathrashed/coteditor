@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#756bb1"
+  },
+  "background" : {
+    "color" : "#fcfdfe"
+  },
+  "characters" : {
+    "color" : "#31a354"
+  },
+  "commands" : {
+    "color" : "#80b1d3"
+  },
+  "comments" : {
+    "color" : "#959697"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#515253",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#fcfdfe"
+  },
+  "keywords" : {
+    "color" : "#3182bd"
+  },
+  "lineHighlight" : {
+    "color" : "#fcfdfe"
+  },
+  "name" : "Brewer (Light)",
+  "numbers" : {
+    "color" : "#31a354"
+  },
+  "selection" : {
+    "color" : "#dadbdc",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#31a354"
+  },
+  "text" : {
+    "color" : "#0c0d0e"
+  },
+  "types" : {
+    "color" : "#e31a1c"
+  },
+  "values" : {
+    "color" : "#dca060"
+  },
+  "variables" : {
+    "color" : "#e31a1c"
+  }
+}

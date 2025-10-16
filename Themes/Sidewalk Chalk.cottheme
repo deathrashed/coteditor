@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#7de35a"
+  },
+  "background" : {
+    "color" : "#2a2d2f"
+  },
+  "characters" : {
+    "color" : "#ffee49"
+  },
+  "commands" : {
+    "color" : "#c5622b"
+  },
+  "comments" : {
+    "color" : "#626262"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#000000",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#7de35a"
+  },
+  "lineHighlight" : {
+    "color" : "#2a2d2f"
+  },
+  "name" : "Sidewalk Chalk",
+  "numbers" : {
+    "color" : "#ffee49"
+  },
+  "selection" : {
+    "color" : "#e3a2ff",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#64adf8"
+  },
+  "text" : {
+    "color" : "#f2f2f2"
+  },
+  "types" : {
+    "color" : "#86aee1"
+  },
+  "values" : {
+    "color" : "#86aee1"
+  },
+  "variables" : {
+    "color" : "#8395a0"
+  }
+}

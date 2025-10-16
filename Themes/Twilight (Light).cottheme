@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#9b859d"
+  },
+  "background" : {
+    "color" : "#ffffff"
+  },
+  "characters" : {
+    "color" : "#8f9d6a"
+  },
+  "commands" : {
+    "color" : "#afc4db"
+  },
+  "comments" : {
+    "color" : "#838184"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#464b50",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#ffffff"
+  },
+  "keywords" : {
+    "color" : "#7587a6"
+  },
+  "lineHighlight" : {
+    "color" : "#ffffff"
+  },
+  "name" : "Twilight (Light)",
+  "numbers" : {
+    "color" : "#8f9d6a"
+  },
+  "selection" : {
+    "color" : "#c3c3c3",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#8f9d6a"
+  },
+  "text" : {
+    "color" : "#1e1e1e"
+  },
+  "types" : {
+    "color" : "#cf6a4c"
+  },
+  "values" : {
+    "color" : "#f9ee98"
+  },
+  "variables" : {
+    "color" : "#cf6a4c"
+  }
+}

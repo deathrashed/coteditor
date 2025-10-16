@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#c795ae"
+  },
+  "background" : {
+    "color" : "#f3f4f5"
+  },
+  "characters" : {
+    "color" : "#95c7ae"
+  },
+  "commands" : {
+    "color" : "#95aec7"
+  },
+  "comments" : {
+    "color" : "#adb3ba"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#565e65",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f3f4f5"
+  },
+  "keywords" : {
+    "color" : "#ae95c7"
+  },
+  "lineHighlight" : {
+    "color" : "#f3f4f5"
+  },
+  "name" : "Ashes (Light)",
+  "numbers" : {
+    "color" : "#95c7ae"
+  },
+  "selection" : {
+    "color" : "#dfe2e5",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#95c7ae"
+  },
+  "text" : {
+    "color" : "#1c2023"
+  },
+  "types" : {
+    "color" : "#c7ae95"
+  },
+  "values" : {
+    "color" : "#aec795"
+  },
+  "variables" : {
+    "color" : "#c7ae95"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#536870"
+  },
+  "background" : {
+    "color" : "#fcf4dc"
+  },
+  "characters" : {
+    "color" : "#595ab7"
+  },
+  "commands" : {
+    "color" : "#259286"
+  },
+  "comments" : {
+    "color" : "#bd3613"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#ffffff",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#c61c6f"
+  },
+  "lineHighlight" : {
+    "color" : "#fcf4dc"
+  },
+  "name" : "Solarized - Light",
+  "numbers" : {
+    "color" : "#595ab7"
+  },
+  "selection" : {
+    "color" : "#eae3cb",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#d11c24"
+  },
+  "text" : {
+    "color" : "#475b62"
+  },
+  "types" : {
+    "color" : "#259286"
+  },
+  "values" : {
+    "color" : "#259286"
+  },
+  "variables" : {
+    "color" : "#259286"
+  }
+}

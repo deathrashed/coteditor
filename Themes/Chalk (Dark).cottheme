@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#e1a3ee"
+  },
+  "background" : {
+    "color" : "#151515"
+  },
+  "characters" : {
+    "color" : "#acc267"
+  },
+  "commands" : {
+    "color" : "#eda987"
+  },
+  "comments" : {
+    "color" : "#505050"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#d0d0d0",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#505050"
+  },
+  "keywords" : {
+    "color" : "#6fc2ef"
+  },
+  "lineHighlight" : {
+    "color" : "#151515"
+  },
+  "name" : "Chalk (Dark)",
+  "numbers" : {
+    "color" : "#acc267"
+  },
+  "selection" : {
+    "color" : "#303030",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#acc267"
+  },
+  "text" : {
+    "color" : "#f5f5f5"
+  },
+  "types" : {
+    "color" : "#fb9fb1"
+  },
+  "values" : {
+    "color" : "#deaf8f"
+  },
+  "variables" : {
+    "color" : "#fb9fb1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#d9ba65"
+  },
+  "background" : {
+    "color" : "#151b1d"
+  },
+  "characters" : {
+    "color" : "#000000"
+  },
+  "commands" : {
+    "color" : "#5d7c9d"
+  },
+  "comments" : {
+    "color" : "#78816d"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#e4e4e4",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#808080"
+  },
+  "keywords" : {
+    "color" : "#91c155"
+  },
+  "lineHighlight" : {
+    "color" : "#151b1d"
+  },
+  "name" : "ObsidianCode",
+  "numbers" : {
+    "color" : "#cfab00"
+  },
+  "selection" : {
+    "color" : "#35434d",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#e87500"
+  },
+  "text" : {
+    "color" : "#d9d9d9"
+  },
+  "types" : {
+    "color" : "#dfc072"
+  },
+  "values" : {
+    "color" : "#708fbc"
+  },
+  "variables" : {
+    "color" : "#dfc072"
+  }
+}

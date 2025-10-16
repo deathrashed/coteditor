@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#6666ea"
+  },
+  "background" : {
+    "color" : "#1b1918"
+  },
+  "characters" : {
+    "color" : "#5ab738"
+  },
+  "commands" : {
+    "color" : "#df5320"
+  },
+  "comments" : {
+    "color" : "#766e6b"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#a8a19f",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#766e6b"
+  },
+  "keywords" : {
+    "color" : "#407ee7"
+  },
+  "lineHighlight" : {
+    "color" : "#1b1918"
+  },
+  "name" : "Atelier Forest (Dark)",
+  "numbers" : {
+    "color" : "#5ab738"
+  },
+  "selection" : {
+    "color" : "#68615e",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#5ab738"
+  },
+  "text" : {
+    "color" : "#f1efee"
+  },
+  "types" : {
+    "color" : "#f22c40"
+  },
+  "values" : {
+    "color" : "#c33ff3"
+  },
+  "variables" : {
+    "color" : "#f22c40"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#7b59c0"
+  },
+  "background" : {
+    "color" : "#f7f3f7"
+  },
+  "characters" : {
+    "color" : "#379a37"
+  },
+  "commands" : {
+    "color" : "#159393"
+  },
+  "comments" : {
+    "color" : "#9e8f9e"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#695d69",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f7f3f7"
+  },
+  "keywords" : {
+    "color" : "#516aec"
+  },
+  "lineHighlight" : {
+    "color" : "#f7f3f7"
+  },
+  "name" : "Atelier Heath (Light)",
+  "numbers" : {
+    "color" : "#379a37"
+  },
+  "selection" : {
+    "color" : "#d8cad8",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#379a37"
+  },
+  "text" : {
+    "color" : "#1b181b"
+  },
+  "types" : {
+    "color" : "#ca402b"
+  },
+  "values" : {
+    "color" : "#bb8a35"
+  },
+  "variables" : {
+    "color" : "#ca402b"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#815ba4"
+  },
+  "background" : {
+    "color" : "#e7e9db"
+  },
+  "characters" : {
+    "color" : "#48b685"
+  },
+  "commands" : {
+    "color" : "#5bc4bf"
+  },
+  "comments" : {
+    "color" : "#8d8687"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#4f424c",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#e7e9db"
+  },
+  "keywords" : {
+    "color" : "#06b6ef"
+  },
+  "lineHighlight" : {
+    "color" : "#e7e9db"
+  },
+  "name" : "Paraiso (Light)",
+  "numbers" : {
+    "color" : "#48b685"
+  },
+  "selection" : {
+    "color" : "#b9b6b0",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#48b685"
+  },
+  "text" : {
+    "color" : "#2f1e2e"
+  },
+  "types" : {
+    "color" : "#ef6155"
+  },
+  "values" : {
+    "color" : "#fec418"
+  },
+  "variables" : {
+    "color" : "#ef6155"
+  }
+}

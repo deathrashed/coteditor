@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#b6b3eb"
+  },
+  "background" : {
+    "color" : "#f9f7f3"
+  },
+  "characters" : {
+    "color" : "#a5c261"
+  },
+  "commands" : {
+    "color" : "#519f50"
+  },
+  "comments" : {
+    "color" : "#d4cfc9"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#3a4055",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#f9f7f3"
+  },
+  "keywords" : {
+    "color" : "#6d9cbe"
+  },
+  "lineHighlight" : {
+    "color" : "#f9f7f3"
+  },
+  "name" : "RailsCasts (Light)",
+  "numbers" : {
+    "color" : "#a5c261"
+  },
+  "selection" : {
+    "color" : "#f4f1ed",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a5c261"
+  },
+  "text" : {
+    "color" : "#2b2b2b"
+  },
+  "types" : {
+    "color" : "#da4939"
+  },
+  "values" : {
+    "color" : "#ffc66d"
+  },
+  "variables" : {
+    "color" : "#da4939"
+  }
+}

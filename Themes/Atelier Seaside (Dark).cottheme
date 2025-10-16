@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#ad2bee"
+  },
+  "background" : {
+    "color" : "#131513"
+  },
+  "characters" : {
+    "color" : "#29a329"
+  },
+  "commands" : {
+    "color" : "#87711d"
+  },
+  "comments" : {
+    "color" : "#687d68"
+  },
+  "highlight" : {
+    "color" : "#6c6c6c",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#8ca68c",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#687d68"
+  },
+  "keywords" : {
+    "color" : "#3d62f5"
+  },
+  "lineHighlight" : {
+    "color" : "#131513"
+  },
+  "name" : "Atelier Seaside (Dark)",
+  "numbers" : {
+    "color" : "#29a329"
+  },
+  "selection" : {
+    "color" : "#5e6e5e",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#29a329"
+  },
+  "text" : {
+    "color" : "#f0fff0"
+  },
+  "types" : {
+    "color" : "#e6193c"
+  },
+  "values" : {
+    "color" : "#e619c3"
+  },
+  "variables" : {
+    "color" : "#e6193c"
+  }
+}
