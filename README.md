@@ -36,45 +36,23 @@ This repository contains a curated collection of:
 
 Perfect for developers, writers, and power users who want to enhance their CotEditor experience.
 
-## 📸 Screenshots
+## Screenshots
 
-<div class="slides">
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/screenshot@2x.png"
-      width="735" height="650"
-      alt="[screenshot]"/>
-  </figure>
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/darkmode@2x.png"
-      width="735" height="650"
-      alt="[screenshot: Dark Mode]"/>
-  </figure>
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/filebrowser@2x.png"
-      width="735" height="650"
-      alt="[screenshot: file browser]"/>
-  </figure>
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/tools@2x.png"
-      width="735" height="650"
-      alt="[screenshot: tools]"/>
-  </figure>
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/verticalOrientation@2x.png"
-      width="735" height="650"
-      alt="[screenshot: vertical orientation]"/>
-  </figure>
-  <figure>
-    <img src="https://coteditor.com/img/screenshots/settings@2x.png"
-      width="712" height="667"
-      alt="[screenshot: settings window]"/>
-  </figure>
+<div align="center">
+  <img src="https://coteditor.com/img/screenshots/screenshot@2x.png" width="400" alt="CotEditor Interface" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/darkmode@2x.png" width="400" alt="Dark Mode" style="margin: 10px;">
+  <br>
+  <img src="https://coteditor.com/img/screenshots/filebrowser@2x.png" width="400" alt="File Browser" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/tools@2x.png" width="400" alt="Tools" style="margin: 10px;">
+  <br>
+  <img src="https://coteditor.com/img/screenshots/verticalOrientation@2x.png" width="400" alt="Vertical Layout" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/settings@2x.png" width="400" alt="Settings" style="margin: 10px;">
 </div>
 
-## 📜 Scripts
+## Scripts
 
 <details>
-<summary><b>📱 AppleScripts</b></summary>
+<summary><b>View All Scripts (200+)</b></summary>
 
 ### Document Operations
 
@@ -228,10 +206,12 @@ Integration scripts for popular applications:
 
 </details>
 
-## 🎨 Themes
+## Themes
 
 <details>
-<summary><b>🌟 Modern Popular Themes</b></summary>
+<summary><b>View All Themes (90+)</b></summary>
+
+### Modern Popular Themes
 
 - **Dracula** (Dark/Light) - Iconic purple-themed dark theme
 - **One Dark** (Dark/Light) - GitHub's Atom editor theme
@@ -242,10 +222,7 @@ Integration scripts for popular applications:
 - **Ayü** (Dark/Light) - Clean, modern theme
 - **Palenight** (Dark/Light) - Elegant purple-tinted theme
 
-</details>
-
-<details>
-<summary><b>🖥️ Platform-Specific Themes</b></summary>
+### Platform-Specific Themes
 
 - **Breeze** (Dark/Light) - KDE's Breeze theme colors
 - **Typora** (Dark/Light) - Typora markdown editor theme
@@ -253,10 +230,7 @@ Integration scripts for popular applications:
 - **Obsidian** (Dark/Light) - Obsidian note-taking app theme
 - **macOS** (Dark/Light) - Native macOS system colors
 
-</details>
-
-<details>
-<summary><b>📚 Classic Themes</b></summary>
+### Classic Themes
 
 - **Solarized** (Dark/Light) - Balanced color palette
 - **Tomorrow** (Dark/Light) - Soft, readable colors
@@ -264,10 +238,7 @@ Integration scripts for popular applications:
 - **3024** (Dark/Light) - Terminal-inspired theme
 - **Ashes** (Dark/Light) - Muted, professional theme
 
-</details>
-
-<details>
-<summary><b>🎨 Base16 Collection</b></summary>
+### Base16 Collection
 
 Complete Base16 theme collection with proper naming:
 
@@ -292,10 +263,7 @@ Complete Base16 theme collection with proper naming:
 - **Shape Shifter** (Dark/Light)
 - **Twilight** (Dark/Light)
 
-</details>
-
-<details>
-<summary><b>🎭 Additional Themes</b></summary>
+### Additional Themes
 
 - **2morrow Night** (Eighties variant)
 - **Anura** (Dark/Light)
@@ -316,12 +284,9 @@ Complete Base16 theme collection with proper naming:
 
 </details>
 
-## 🚀 Installation
+## Installation
 
-<details>
-<summary><b>📜 Scripts Installation</b></summary>
-
-**Install Scripts:**
+### Scripts Installation
 
 - Copy desired contents from 'Scripts' folder to CotEditor's Scripts folder
 - Location: `~/Library/Application Scripts/com.coteditor.CotEditor`
@@ -329,23 +294,13 @@ Complete Base16 theme collection with proper naming:
 - Make sure scripts are executable: `chmod +x script.sh`
 - Ensure required dependencies are installed
 
-</details>
-
-<details>
-<summary><b>🎨 Themes Installation</b></summary>
-
-**Use the themes directly:**
+### Themes Installation
 
 - Open CotEditor
 - Go to Preferences → Appearance
 - Click the "+" button and select theme files
 
-</details>
-
-## 🤝 Contributing
-
-<details>
-<summary><b>📝 How to Contribute</b></summary>
+## Contributing
 
 Contributions are welcome! Please feel free to submit:
 
@@ -354,31 +309,23 @@ Contributions are welcome! Please feel free to submit:
 - Improvements to existing scripts
 - Documentation updates
 
-</details>
+### Guidelines
 
-<details>
-<summary><b>📋 Guidelines</b></summary>
-
-### Scripts
+**Scripts**
 
 - Follow existing naming conventions
 - Include proper error handling
 - Add comments for complex operations
 - Test thoroughly before submitting
 
-### Themes
+**Themes**
 
 - Use proper JSON format
 - Include both dark and light variants when applicable
 - Test color contrast and readability
 - Follow naming convention: `ThemeName (Variant).cottheme`
 
-</details>
-
-## 📊 Quick Stats
-
-<details>
-<summary><b>📈 Repository Statistics</b></summary>
+## Quick Stats
 
 - **Total Files:** 290+
 - **Scripts:** 200+ (AppleScript, Shell, Python, Ruby)
@@ -386,45 +333,34 @@ Contributions are welcome! Please feel free to submit:
 - **Categories:** 15+ script categories
 - **Platform Support:** macOS (CotEditor)
 
-</details>
+## Use Cases
 
-## 🎯 Use Cases
-
-<details>
-<summary><b>👨‍💻 For Developers</b></summary>
+**For Developers**
 
 - **Code Formatting** - Beautify, minify, and format code
 - **Data Processing** - CSV/JSON conversion, data validation
 - **Text Manipulation** - Advanced grep, multi-replace, line operations
 - **Code Generation** - API clients, JSON schemas, templates
 
-</details>
-
-<details>
-<summary><b>✍️ For Writers</b></summary>
+**For Writers**
 
 - **Text Processing** - Word count, text statistics, formatting
 - **Markdown Tools** - Convert to/from HTML, format headers
 - **Content Generation** - Lorem ipsum, random text, templates
 - **Document Operations** - Line numbering, comment management
 
-</details>
-
-<details>
-<summary><b>🎨 For Designers</b></summary>
+**For Designers**
 
 - **Theme Collection** - 90+ professionally designed themes
 - **Color Schemes** - Modern, classic, and platform-specific themes
 - **Visual Consistency** - Dark/light variants for all themes
 - **Customization** - Easy theme switching and modification
 
-</details>
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [CotEditor](https://coteditor.com/) - The amazing text editor
 - [Base16](https://github.com/chriskempson/base16) - Color scheme collection
@@ -435,7 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p><strong>Happy coding with CotEditor! 🎉</strong></p>
+  <p><strong>Happy coding with CotEditor!</strong></p>
   <p>
     <a href="https://github.com/yourusername/coteditor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://coteditor.com/"><img src="https://img.shields.io/badge/CotEditor-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CotEditor"></a>
