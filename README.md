@@ -1,6 +1,7 @@
-# CotEditor Scripts & Themes Collection
+# Scripts & Themes
 
-  <img src="https://coteditor.com/img/appicon/128@2x.png" alt="CotEditor" width="128" height="128">
+<div align="center">
+  <img src="https://coteditor.com/img/appicon/128@2x.png" alt="CotEditor" width="256" height="256">
 
 ## Scripts
 
