@@ -1,28 +1,20 @@
 # CotEditor Scripts & Themes Collection
 
-<div align="center">
-
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Themes](https://img.shields.io/badge/Themes-90+-green?style=for-the-badge)](https://github.com/yourusername/coteditor) [![Scripts](https://img.shields.io/badge/Scripts-200+-orange?style=for-the-badge)](https://github.com/yourusername/coteditor) [![macOS](https://img.shields.io/badge/macOS-Compatible-black?style=for-the-badge&logo=apple)](https://www.apple.com/macos/) [![CotEditor](https://img.shields.io/badge/CotEditor-Enhanced-purple?style=for-the-badge)](https://coteditor.com/)
-
   <img src="https://coteditor.com/img/appicon/128@2x.png" alt="CotEditor" width="128" height="128">
 
-**A comprehensive collection of scripts, themes, and utilities for CotEditor - the lightweight text editor for macOS.**
+**Collection of scripts, themes, and utilities for CotEditor - the lightweight text editor for macOS.**
 
 </div>
 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
-- [Screenshots](#screenshots)
 - [Scripts](#scripts)
-  - [AppleScripts](#applescripts)
-  - [Shell Scripts](#shell-scripts)
-  - [Python Scripts](#python-scripts)
-  - [Ruby Scripts](#ruby-scripts)
 - [Themes](#themes)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## 🎯 Overview
@@ -35,19 +27,6 @@ This repository contains a curated collection of:
 - **Code Utilities** - Linting, formatting, and generation tools
 
 Perfect for developers, writers, and power users who want to enhance their CotEditor experience.
-
-## Screenshots
-
-<div align="center">
-  <img src="https://coteditor.com/img/screenshots/screenshot@2x.png" width="400" alt="CotEditor Interface" style="margin: 10px;">
-  <img src="https://coteditor.com/img/screenshots/darkmode@2x.png" width="400" alt="Dark Mode" style="margin: 10px;">
-  <br>
-  <img src="https://coteditor.com/img/screenshots/filebrowser@2x.png" width="400" alt="File Browser" style="margin: 10px;">
-  <img src="https://coteditor.com/img/screenshots/tools@2x.png" width="400" alt="Tools" style="margin: 10px;">
-  <br>
-  <img src="https://coteditor.com/img/screenshots/verticalOrientation@2x.png" width="400" alt="Vertical Layout" style="margin: 10px;">
-  <img src="https://coteditor.com/img/screenshots/settings@2x.png" width="400" alt="Settings" style="margin: 10px;">
-</div>
 
 ## Scripts
 
@@ -62,22 +41,6 @@ Perfect for developers, writers, and power users who want to enhance their CotEd
 - **Move Line Up** - Move current line up
 - **Select Line** - Select the entire current line
 
-### Open With
-
-Integration scripts for popular applications:
-
-- **Cursor** - Open with Cursor editor
-- **Dropover** - Open with Dropover file manager
-- **Finder** - Open with Finder
-- **Ghostty** - Open with Ghostty terminal
-- **Microsoft Edge** - Open with Edge browser
-- **Notes** - Open with macOS Notes
-- **Obsidian** - Open with Obsidian note-taking app
-- **Stickies** - Open with macOS Stickies
-- **Terminal** - Open with Terminal
-- **TextEdit** - Open with TextEdit
-- **Typora** - Open with Typora markdown editor
-
 ### Text Utilities
 
 - **Convert Spaces to Tabs** - Convert indentation
@@ -90,11 +53,6 @@ Integration scripts for popular applications:
 - **Remove Leading Whitespace** - Clean up indentation
 - **Remove Trailing Whitespace** - Clean up line endings
 - **Trim** - Remove leading/trailing whitespace
-
-</details>
-
-<details>
-<summary><b>🐚 Shell Scripts</b></summary>
 
 ### Case & Format Conversion
 
@@ -325,36 +283,18 @@ Contributions are welcome! Please feel free to submit:
 - Test color contrast and readability
 - Follow naming convention: `ThemeName (Variant).cottheme`
 
-## Quick Stats
+## Screenshots
 
-- **Total Files:** 290+
-- **Scripts:** 200+ (AppleScript, Shell, Python, Ruby)
-- **Themes:** 90+ (Dark/Light variants)
-- **Categories:** 15+ script categories
-- **Platform Support:** macOS (CotEditor)
-
-## Use Cases
-
-**For Developers**
-
-- **Code Formatting** - Beautify, minify, and format code
-- **Data Processing** - CSV/JSON conversion, data validation
-- **Text Manipulation** - Advanced grep, multi-replace, line operations
-- **Code Generation** - API clients, JSON schemas, templates
-
-**For Writers**
-
-- **Text Processing** - Word count, text statistics, formatting
-- **Markdown Tools** - Convert to/from HTML, format headers
-- **Content Generation** - Lorem ipsum, random text, templates
-- **Document Operations** - Line numbering, comment management
-
-**For Designers**
-
-- **Theme Collection** - 90+ professionally designed themes
-- **Color Schemes** - Modern, classic, and platform-specific themes
-- **Visual Consistency** - Dark/light variants for all themes
-- **Customization** - Easy theme switching and modification
+<div align="center">
+  <img src="https://coteditor.com/img/screenshots/screenshot@2x.png" width="400" alt="CotEditor Interface" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/darkmode@2x.png" width="400" alt="Dark Mode" style="margin: 10px;">
+  <br>
+  <img src="https://coteditor.com/img/screenshots/filebrowser@2x.png" width="400" alt="File Browser" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/tools@2x.png" width="400" alt="Tools" style="margin: 10px;">
+  <br>
+  <img src="https://coteditor.com/img/screenshots/verticalOrientation@2x.png" width="400" alt="Vertical Layout" style="margin: 10px;">
+  <img src="https://coteditor.com/img/screenshots/settings@2x.png" width="400" alt="Settings" style="margin: 10px;">
+</div>
 
 ## License
 
@@ -364,8 +304,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [CotEditor](https://coteditor.com/) - The amazing text editor
 - [Base16](https://github.com/chriskempson/base16) - Color scheme collection
-- [Dracula Theme](https://draculatheme.com/) - Popular dark theme
-- [Nord Theme](https://www.nordtheme.com/) - Arctic-inspired theme
 - All contributors and theme creators
 
 ---
