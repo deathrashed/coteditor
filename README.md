@@ -1,8 +1,10 @@
+<div align="center">
+
 # Scripts & Themes
 
-<div align="center">
   <img src="https://coteditor.com/img/appicon/128@2x.png" alt="CotEditor" width="256" height="256">
 </div>
+
 ## Scripts
 
 <details>
